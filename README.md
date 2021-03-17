@@ -1,5 +1,5 @@
 # Atomic Clocks
-Plot atomic clock data using dash.
+Plot atomic clock data for the NZ Measurement Standards Laboratory using dash.
 
 Process and display data from four atomic clocks and two NTP servers. The data is used to monitor and analyse clocks behaviour.
 
